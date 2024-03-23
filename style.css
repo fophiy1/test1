@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    justify-content: space-evenly;
+}
+.img {
+    width: 400px;
+    height: 500px;
+}
+
+.text {
+color: rgb(28, 41, 67);
+}
